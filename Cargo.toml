@@ -1,13 +1,13 @@
 [package]
-name = "rustyvibes"
-description = "A rust CLI to play mechanical keyboard sounds globally"
+name = "rustyvibes-gui"
+description = "A Rust App to play mechanical keyboard sounds globally with a GUI"
 readme = "README.md"
-repository = "https://github.com/kb24x7/rustyvibes"
+repository = "https://github.com/henrychea/rustyvibes-gui"
 keywords = ["mechanical", "keyboard", "keypress", "keyboard", "sound"]
-categories = ["command-line-utilities"]
+categories = ["gui-app"]
 license = "MIT OR Apache-2.0"
-version = "1.0.8"
-edition = "2018"
+version = "1.0.0"
+edition = "2022"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
